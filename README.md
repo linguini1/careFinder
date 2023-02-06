@@ -4,9 +4,9 @@
 
 ## Authors
 
-- Grant Achuzia
-- Hamnah Qureshi
 - Matteo Golin
+- Hamnah Qureshi
+- Grant Achuzia
 
 ## Installation
 
